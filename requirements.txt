@@ -1,6 +1,7 @@
 flask
 pandas 
 scikit-learn
+pickle
 gunicorn
 numpy 
 matplotlib
