@@ -5,3 +5,4 @@ streamlit
 gunicorn
 numpy 
 matplotlib
+xgboost
